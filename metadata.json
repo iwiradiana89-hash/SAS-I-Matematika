@@ -1,0 +1,8 @@
+{
+  "name": "Remix Tes Sumatif ",
+  "description": "Aplikasi Tes Sumatif Matematika Kelas II SD Negeri 3 Dangintukadaya dengan 15 tes pilihan ganda dan 10 tes isian singkat, sinkronisasi Google Spreadsheet, unduh PDF naskah \u0026 hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
